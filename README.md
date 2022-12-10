@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sukhmanpreet Kaur
 - 👀 I’m interested in Machine Learning and Artificial Inteligence
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach out to me through my gmail id @vashishtsukhman465@gmail.com
 
 <!---
