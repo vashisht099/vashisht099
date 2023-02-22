@@ -1,7 +1,25 @@
-- 👋 Hi, I’m Sukhmanpreet Kaur
-- 👀 I’m interested in Machine Learning and Artificial Inteligence
-- 🌱 I’m currently learning AI
-- 📫 You can reach out to me through my gmail id @vashishtsukhman465@gmail.com
+Introduction
+
+Hi there! My name is Sukhmanpreet Kaur, and I am an aspiring data analyst with a passion for using data to drive insights and inform decision-making.
+
+Skills and Experience
+    Data analysis and visualization using tools like Python, Power BI and SQL
+    Statistical inference and hypothesis testing
+    Data cleaning and wrangling
+    Effective communication and collaboration with team members and stakeholders
+
+Projects
+
+I am constantly working on new projects to improve my skills and gain more experience with data analysis. Some of my recent projects include:
+
+    HR Analysis
+    LinkedIn Profile Analysis
+    Real Estate Price Prediction
+
+You can find more information about these projects, as well as the code and data used to complete them, in the repositories on my GitHub profile.
+Contact Information
+
+If you would like to learn more about me or discuss potential collaborations , please feel free to contact me at vashishtsukhman465@gmail.com.
 
 <!---
 vashisht099/vashisht099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
