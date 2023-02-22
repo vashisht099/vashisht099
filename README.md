@@ -7,7 +7,7 @@ Skills and Experience
     Data cleaning and wrangling
     Effective communication and collaboration with team members and stakeholders
 
--Projects
+Projects
 
 I am constantly working on new projects to improve my skills and gain more experience with data analysis. Some of my recent projects include:
 
@@ -16,6 +16,7 @@ I am constantly working on new projects to improve my skills and gain more exper
     Real Estate Price Prediction
 
 You can find more information about these projects, as well as the code and data used to complete them, in the repositories on my GitHub profile.
+
 Contact Information
 
 If you would like to learn more about me or discuss potential collaborations , please feel free to contact me at vashishtsukhman465@gmail.com.
