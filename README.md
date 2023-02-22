@@ -1,11 +1,12 @@
-Hi there! My name is Sukhmanpreet Kaur, and I am an aspiring data analyst with a passion for using data to drive insights and inform decision-making.
+Hi there! My name is Sukhmanpreet Kaur, and I am an aspiring data analyst with a passion for using data to drive insights and inform decision-making. As a highly motivated and skilled data analyst, I have a strong background in utilizing various data technologies such as MySQL, Power BI, and Python, including its libraries. Currently expanding my knowledge in data preprocessing, data visualization, and machine learning models.
 
 Skills and Experience
 
     Data analysis and visualization using tools like Python, Power BI and SQL
     Statistical inference and hypothesis testing
     Data cleaning and wrangling
-    Effective communication and collaboration with team members and stakeholders
+    Model Building
+    Presentation, effective communication and collaboration with team members and stakeholders
 
 Projects
 
