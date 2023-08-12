@@ -9,7 +9,7 @@ With a strong interest in artificial intelligence, I am committed to using my sk
 - Natural Language Processing: Spacy, NLTK
 - Data Analysis: Exploratory Data Analysis, ETL pipelines, Snowflake, Power BI
 - Web Development: Flask
-- Other: Git, GIthub, Microsoft Office
+- Other: Git, GIthub, Microsoft Office.
 
 # Projects
 Here are some of the projects I've worked on:
